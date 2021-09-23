@@ -1,0 +1,171 @@
+.s1{
+    height: 40px;
+    width: 150px;
+    background-color: white;
+    border: 3px solid red;
+    font-size: 10px;
+    text-align: center;
+    padding-left:0px;
+    margin-left: 220px;
+    padding-top: 10px;
+    border-radius: 20px;
+    font-weight: bold;
+    box-shadow: rgb(252, 0, 197) 5px 5px 20px;
+}
+.parent{
+height: 400px;
+width: 100%;
+border: red 3px solid;
+border-radius: 10px;
+margin-top: 3px;
+position: relative;
+box-shadow: 20px 20px 50px 10px pink inset;
+
+}
+.one{
+  height: 100px;
+  width: 100px;
+  margin: 4px;
+  font-size: 15px;  
+  border: red solid 3px;
+position: absolute;
+margin: 1px;
+text-align: center;
+box-shadow: rgb(252, 0, 197) 3px 3px 3px;
+border-radius: 10px;
+background-color: white;
+
+}
+.two{
+    height: 100px;
+    width: 100px;
+    margin: 4px;
+    font-size: 15px; 
+    border: red solid 3px;  
+    position: absolute;
+    right: 1px;
+    margin: 1px;
+    text-align: center;
+    box-shadow: rgb(252, 0, 197) 3px 3px 3px;
+    border-radius: 10px;
+    background-color: white;
+}
+.three{
+    height: 100px;
+    width: 100px;
+    margin: 4px;
+    font-size: 12px;   
+    border: red solid 3px; 
+    position: absolute;
+    bottom: 3px;
+    margin: 1px;
+    text-align: center;
+    box-shadow: rgb(252, 0, 197) 3px 3px 3px;
+    border-radius: 10px;
+    background-color: white;
+}
+.four{
+    height: 100px;
+    width: 100px;
+    margin: 4px;
+    font-size: 12px;   
+    border: red solid 3px; 
+    position: absolute;
+    right: 1px;
+    bottom: 3px;
+    margin: 1px;
+    text-align: center;
+    box-shadow: rgb(252, 0, 197) 3px 3px 3px;
+    border-radius: 10px;
+    background-color: white;
+}
+input{
+    width: 40px;
+    text-align: center;
+    font-size: 5px;
+}
+form{
+    text-align: center;
+}
+img{
+    width: 100px;
+    height: 100px;
+    
+}
+.five{
+    height: 50px;
+    width: 150px;
+    margin: 4px;
+    font-size: 12px;   
+    border: red solid 3px; 
+    position: fixed;
+    right: 220px;
+    bottom: 150px;
+    margin: 1px;
+    text-align: center;
+    padding-top: 15px;
+    background-color: rgba(255, 255, 255, 0.479);
+    border-radius: 10px;
+    box-shadow: rgb(252, 0, 197) 10px 10px 20px;
+    z-index: 2;
+    
+}
+.tej{
+  height: 300px;
+  width: 300px;
+  background-color:white;
+  border:red solid 2px;
+  margin: 150px;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+  box-shadow: rgb(252, 0, 197) 10px 10px 10px;
+}
+.tej1{
+    height: 141px;
+    width: 141px;
+    background-color:rgb(218, 32, 32);
+    border:red solid 2px;
+   text-align: center;
+   margin-left: 2px;
+   
+   font-size: 10px;
+   
+   
+    
+}
+.tej2{
+    height: 141px;
+    width: 143px;
+    background-color:rgb(175, 37, 168);
+    border:red solid 2px;
+   text-align: center;
+   margin-right: 2px;
+   position: absolute;
+   right: 2px;
+   top: 12px;
+  
+   font-size: 10px;
+}
+.tej3{
+    height: 125px;
+    width: 290px;
+    background-color:rgb(20, 198, 211);
+    border:red solid 2px;
+   text-align: center; 
+   margin: 2px;
+  
+   font-size: 10px;
+}
+.sujal{
+    background-image: url('./background4.jfif');
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+div{
+    font-size: 10px;
+}
+
+
+
+
